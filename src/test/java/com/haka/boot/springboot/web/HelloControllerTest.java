@@ -1,4 +1,4 @@
-package com.haka.boot.springboot;
+package com.haka.boot.springboot.web;
 
 import com.haka.boot.springboot.web.HelloController;
 import org.junit.Test;
