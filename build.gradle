@@ -19,7 +19,7 @@ apply plugin: 'io.spring.dependency-management'
 //    id 'java'
 //}
 
-group 'org.example'
+group 'com.haka.boot'
 version '1.0-SNAPSHOT'
 
 repositories {
