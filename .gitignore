@@ -3,3 +3,6 @@
 .idea
 #google oauth 보안키
 application-oauth.properties
+
+build
+out
